@@ -15,3 +15,12 @@ You can create a cloud in a virtual interface by just pooling together a bunch o
 ### Python
 Python is a pseudo-code, which means that is written in the typical code way, but it is meant for human reading, instead of just computer reading.
 Compiled lanugages are typically faster and more efficient than interpreted code. Compiled code is directly converted into computer language.
+## Career Exploration
+### College Central
+The website would be very useful for finding jobs in the near future for my prefered path. It's a clean layout of the site with many different and helpful options.
+### Certifications
+All 3 of the sites would all be very useful for when/if I take the tests. The CISCO website offeres many different ones depending on the degree you want to get as well.
+### Co-ops / Internships
+A coop education allows the student to get hands on experience in the field of their choice. In order to become coop ready, you need to have completed 12 credit hours of college coursework with at least two courses related to your major field and have a GPA of 2.75 or higher. This allows you to gain useful hands-on experience in your chosen field of work.
+### Industry Associations / Student Organizations
+The IEEE is a group of people who strive to create new technology that can benefit humanity. This would be pretty beneficial to be in because you can stay up to date on some bleeding edge tech, as well as being able to see some new technology being made for progression of human kind.
