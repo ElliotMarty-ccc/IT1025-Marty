@@ -19,3 +19,6 @@ A raster graphic is composed of a combination of pixels, but a vector graphic is
 Lossless compression means that the image will not lose quality, no matter how compressed it gets. Lossy compression removes the data during compression.
 ### File Formats
 .jpgs remove data that the human eye cannot tell is there. It is lossy, but only to a point that we can't tell. .gif files are used to keep tight images, and also for animated images. .png files are non-lossy files, meaning that they don't lose any data on compression
+### File Properties
+Only two layers. One for the background circle, and another for the text and image, which were on the same level.
+The file size is 67.9 kb and it opens with Google Chrome. It would be better to open with Paint or an image editing program because you would probably want to edit it.
