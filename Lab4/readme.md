@@ -22,3 +22,6 @@ Lossless compression means that the image will not lose quality, no matter how c
 ### File Properties
 Only two layers. One for the background circle, and another for the text and image, which were on the same level.
 The file size is 67.9 kb and it opens with Google Chrome. It would be better to open with Paint or an image editing program because you would probably want to edit it.
+
+# Conculusion
+Through the course of this lab, I learned how to use some python basics, as well as image compression techniques, like lossy and lossless.
