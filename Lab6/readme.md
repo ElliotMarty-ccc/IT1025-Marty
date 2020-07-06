@@ -19,3 +19,9 @@ If you don't secure your browser, spyware can be installed, which means that you
 ### World Wide Web Consortium
 Tim Berners-Lee invented the World Wide Web in 1989. W3C was created with the purpose of making all website look the same of similar no matter what browser you use.
 The Web Designs and Applications standard makes sure that every site is usable by everyone.
+### HTML5 and CSS
+HTML5 is the type of code that we use to write HTML websites, and CSS is the artistic style of code that we use to decorate a website.
+### HTML and XML
+XML was made to carry data, whereas HTML was made to display data
+## Components of a URL
+scheme=https    domain=www.amazon.com   top level domain=.edu   default page=no file path   parameters=result of search    anchor=specific location on a page
