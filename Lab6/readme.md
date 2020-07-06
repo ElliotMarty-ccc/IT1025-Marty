@@ -25,3 +25,5 @@ HTML5 is the type of code that we use to write HTML websites, and CSS is the art
 XML was made to carry data, whereas HTML was made to display data
 ## Components of a URL
 scheme=https    domain=www.amazon.com   top level domain=.edu   default page=no file path   parameters=result of search    anchor=specific location on a page
+# Conclusion
+This lab helped me to dust off my knowledge about HTML and CSS coding. It helped redefine some stuff I was confused on, and taugh some newer things.
