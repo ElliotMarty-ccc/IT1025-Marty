@@ -7,3 +7,6 @@ The reason why a zip file is smaller than a jpg would be, is because the zip is 
 The methods of the shark are to swim, and to be awesome.
 The purpose of the constructor, is to excecute code from top to bottom. It will run whatever is right after it, without going through the entire code.
 The class is basically the blueprint for the object. The object is the general "name" for the class code. Instantiating an object from a class is giving a name to the class. Like in the example, where the shark class is named sammy.
+### Object Oriented Concepts
+The classes would be what you want on your food. If you get a burger, your class would be bun, patty, letuce, tomatoe, pickle. The object is the name the menu gives that item.
+inheritance=a specific type of shark---class=sammy---object=swim(self)---abstraction=definition of a shark---inheritance=shark
