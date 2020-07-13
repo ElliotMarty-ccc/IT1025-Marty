@@ -10,3 +10,5 @@ The class is basically the blueprint for the object. The object is the general "
 ### Object Oriented Concepts
 The classes would be what you want on your food. If you get a burger, your class would be bun, patty, letuce, tomatoe, pickle. The object is the name the menu gives that item.
 inheritance=a specific type of shark---class=sammy---object=swim(self)---abstraction=definition of a shark---inheritance=shark
+# Conclusion
+This lab helped me learn about compressing files in the zip format, as well as learning about class/objects
